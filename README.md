@@ -17,7 +17,7 @@ O objetivo deste projeto é fornecer uma interface simples e reutilizável para 
 
 2.  **Clone o repositório e instale as dependências:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/ollama-image-analyzer-cli.git](https://github.com/SEU-USUARIO/ollama-image-analyzer-cli.git)
+    git clone [https://github.com/Lukasilvestre/ollama-image-analyzer-cli.git](https://github.com/Lukasilvestre/ollama-image-analyzer-cli.git)
     cd ollama-image-analyzer-cli
     pip install -r requirements.txt
     ```
